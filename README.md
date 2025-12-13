@@ -66,7 +66,7 @@ AI-powered learning assistant
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![GitHub Stats](<img src="https://github-readme-stats.vercel.app/api?username=Prashant730&show_icons=true&hide_title=true" alt="GitHub Stats" />)
 
 ---
 
