@@ -52,8 +52,6 @@ Computer Science student focused on frontend web development. Currently learning
 
 - **Email:** 1306pkumar@gmail.com
 - **GitHub:** https://github.com/Prashant730
-- *(**LinkedIn:** [Add your LinkedIn URL here])*
-- *(**LeetCode:** [Add your LeetCode URL here])*
 
 ---
 
