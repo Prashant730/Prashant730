@@ -1,30 +1,30 @@
 <h1 align="center">Hi, I'm Prashant Kumar</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer</h3>
+<h3 align="center">Computer Science Student | Frontend Development Learner</h3>
 
 ---
 
 ### 👨‍🎓 Professional Summary
 
-Computer Science student with a strong foundation in both frontend and backend development. I am currently building full-stack applications using **React.js** and **Node.js**, while maintaining sharp problem-solving skills in **C++** and **Java**. I am passionate about creating practical solutions, from manufacturing management systems to interactive gaming platforms.
+Computer Science student focused on frontend web development. Currently learning **React.js** and strengthening core programming skills using **C++** and **Java**. Interested in building responsive user interfaces and improving problem-solving ability through consistent practice and projects.
 
 ---
 
 ### 🛠️ Technical Skills
 
-**Languages**
-- **C++** (Data Structures & Algorithms)
+**Programming Languages**
+- C++ (Data Structures & Algorithms)
 - Java
-- JavaScript (ES6+)
+- JavaScript
 
-**Frontend**
-- React.js
+**Frontend Development**
+- React.js (Learning)
 - HTML5 / CSS3
-- Tailwind CSS / Bootstrap
+- Tailwind CSS
+- Bootstrap
 
-**Backend & Tools**
-- **Node.js**
-- Express.js
-- Git & GitHub
+**Tools**
+- Git
+- GitHub
 
 ---
 
@@ -33,30 +33,18 @@ Computer Science student with a strong foundation in both frontend and backend d
 > GitHub Profile:  
 👉 https://github.com/Prashant730
 
-- **Machinery Manufacturing Management**
-  - A full-stack web application for a manufacturing company.
-  - Features include advanced filtering for machinery products (air filters, oil filters) and inventory management.
-  - **Tech Stack:** React.js, Node.js.
-
-- **Live Auction & Bidding System**
-  - Designed a real-time bidding platform with distinct admin and user roles.
-  - Implemented live updates for active auctions and bid management.
-  
-- **Gaming Platform with Leaderboards**
-  - Developed a gaming platform featuring live leaderboards to track user performance in real-time.
-  - Focused on high-performance state management and data accuracy.
-
-- **3D Topographic Model of Ladakh**
-  - A specialized project visualizing the topography of Ladakh.
-  - Focused on 3D modeling and accurate geographical representation.
+- **Frontend Practice Projects**
+  - A collection of responsive UI components built from scratch.
+  - Practicing React.js fundamentals including components, props, and state management.
+  - **Tech Stack:** HTML5, CSS3, JavaScript, React.js.
 
 ---
 
 ### 📚 Currently Learning
 
-- **Backend Architecture:** Deepening knowledge in Node.js and database management.
-- **Advanced React:** Mastering Hooks, State Management, and Performance Optimization.
-- **Problem Solving:** Consistently practicing Aptitude and DSA questions in C++.
+- **React.js:** Hooks, Component Structure.
+- **Data Structures & Algorithms:** Solving problems in C++/Java.
+- **JavaScript:** ES6+ fundamentals.
 
 ---
 
@@ -64,17 +52,17 @@ Computer Science student with a strong foundation in both frontend and backend d
 
 - **Email:** 1306pkumar@gmail.com
 - **GitHub:** https://github.com/Prashant730
-- **LinkedIn:** [Your LinkedIn Profile]
-- **LeetCode:** [Your LeetCode Profile]
+- **LinkedIn:** [Add your LinkedIn URL here]
+- **LeetCode:** [Add your LeetCode URL here]
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashant730&show_icons=true&locale=en" alt="Prashant730" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashant730&show_icons=true&locale=en" alt="Prashant730 Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant730&layout=compact" alt="Prashant730" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant730&layout=compact" alt="Prashant730 Languages" />
 </p>
